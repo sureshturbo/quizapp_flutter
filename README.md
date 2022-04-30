@@ -1,6 +1,9 @@
 # quiz_flutter_app
 
-![Screenshot_62](https://user-images.githubusercontent.com/44191960/166094122-44f004da-912d-461e-88f6-a944c4da2a8a.png)
+![Screenshot_63](https://user-images.githubusercontent.com/44191960/166094173-0fb9e71e-4387-4ddb-9024-4fa431f8c44d.png)
+
+  
+![Screenshot_64](https://user-images.githubusercontent.com/44191960/166094180-5dd24cff-b210-4b5d-bab9-d0a646726fb8.png)
 
 
 ## Getting Started
